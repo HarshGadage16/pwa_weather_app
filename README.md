@@ -1,6 +1,10 @@
 # You can find the progressive web app below
-![image](https://user-images.githubusercontent.com/62607923/137270277-2a13f563-44c9-4b03-bad9-46f414090774.png)
-![weather-app](https://harshgadage16.github.io/pwa_weather_app/)
+![image](https://user-images.githubusercontent.com/62607923/137270682-e12a31ab-0300-4b5a-9b84-4279b66a16ad.png)
+<br>
+<br>
+<br>
+
+[weather-app](https://harshgadage16.github.io/pwa_weather_app/)
 
 
 
