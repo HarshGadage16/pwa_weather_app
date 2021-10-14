@@ -1,4 +1,4 @@
-# You can find the [progressive web weather-app](https://harshgadage16.github.io/pwa_weather_app/) her
+# You can find the [progressive web weather-app](https://harshgadage16.github.io/pwa_weather_app/) here
 ![image](https://user-images.githubusercontent.com/62607923/137270682-e12a31ab-0300-4b5a-9b84-4279b66a16ad.png)
 <br>
 <br>
